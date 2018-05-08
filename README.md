@@ -48,15 +48,6 @@ default: {default value}
 
 ```
 
-## Note:
-
-```
-
-'type' and 'array' key in validation json should be prefixed with '$' symbol
-on missing $ symbol your validation might not work.
-
-```
-
 # Sample JSONs
 
 ## ARRAY JSON
@@ -103,5 +94,14 @@ on missing $ symbol your validation might not work.
         "optional": true
     }
 }
+
+```
+
+# Note:
+
+```
+
+'type' and 'array' key in validation json should be prefixed with '$' symbol
+on missing $ symbol your validation might not work.
 
 ```
