@@ -11,19 +11,21 @@
 ## How to use
 
 ```
+
 const JoiSchemaBuilder = require('ak-json-to-joi');
 let JoiValidationSchema = JoiSchemaBuilder.build(yourJSON);
 let result = Joi.validate(yourPayloadJSON, JoiValidationSchema)
 
 ```
 
-## Supported Features
+# Supported Features
 
-# Types
+## Types
 
 Use any of these as types of the key
 
 ```
+
 string
 number
 email
@@ -33,28 +35,33 @@ boolean
 
 ```
 
-# Validations
+## Validations
 
 ```
+
 minLength: {integer value}
 maxLength: {integer value}
 optional: {true / false}
 required: {true / false}
 regex: {regex pattern}
 default: {default value}
+
 ```
 
 ## Note:
 
 ```
+
 'type' and 'array' key in validation json should be prefixed with '$' symbol
 on missing $ symbol your validation might not work.
-```
-
-## Sample JSONs
 
 ```
-# ARRAY JSON
+
+# Sample JSONs
+
+## ARRAY JSON
+
+```
 
 {
     "$array": {
@@ -68,8 +75,11 @@ on missing $ symbol your validation might not work.
     }
 }
 
+```
 
-# OBJECT JSON
+## OBJECT JSON
+
+```
 
 {
     "name": {
