@@ -1,4 +1,7 @@
 ## ak-json-to-joi
+
+NPM Module to convert predefined JSON into Joi validation schema dynamically.
+
 [![npm version](https://badge.fury.io/js/ak-json-to-joi.svg)](https://badge.fury.io/js/ak-json-to-joi)
 [![Dependencies](https://david-dm.org/arshadkazmi42/ak-json-to-joi.svg)](https://david-dm.org/arshadkazmi42/ak-json-to-joi)
 [![npm Downloads](https://img.shields.io/npm/dm/ak-json-to-joi.svg)](https://www.npmjs.com/package/ak-json-to-joi)
