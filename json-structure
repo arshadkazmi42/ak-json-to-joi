@@ -1,0 +1,65 @@
+===== SUPPORTED TYPES ======
+
+Types: string, number, integer, object, array, boolean, email
+
+
+
+Validations:
+------------
+
+minLength: {integer value}
+maxLength: {integer value}
+optional: {true / false}
+required: {true / false}
+regex: {regex pattern}
+default: {default value}
+
+
+
+============== SAMPLE JSON =================
+
+
+===== ARRAY JSON =====
+
+{
+    "$array": {
+        "name":{
+            "$type":"string"
+        },
+        "number":{
+            "$type":"number",
+            "optional": true
+        }
+    }
+}
+
+
+
+
+
+===== OBJECT JSON ======
+
+
+
+{
+    "name": {
+        "original": {
+            "$type": "string",
+            "required": true,
+            "maxLength": 200
+        },
+        "nick": {
+            "$type": "string",
+            "optional": true,
+            "default": "arshad"
+        }
+    },
+    "phone": {
+        "$type": "number",
+        "required": true
+    },
+    "email": {
+        "$type": "email",
+        "optional": true
+    }
+}

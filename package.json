@@ -1,0 +1,7 @@
+{
+  "name": "ak-json-to-joi",
+  "version": "0.0.1",
+  "dependencies": {
+    "joi": "^13.2.0"
+  }
+}
