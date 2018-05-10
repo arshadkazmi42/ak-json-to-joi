@@ -62,6 +62,16 @@ externals.buildJoi = (schema) => {
     case 'boolean':
       joiObj = joiObj.boolean();
       break;
+    case 'date':
+      joiObj = joiObj.date();
+      break;
+    case 'timestamp':
+      if ( schema.timestamp ) {
+        joiObj = joiObj.date().timestamp(schema.timestamp);
+      } else {
+        joiObj = joiObj.date().timestamp();
+      }
+      break;
   }
 
   // Min Validation
@@ -81,6 +91,24 @@ externals.buildJoi = (schema) => {
 
   // Default field
   if ( schema.default ) joiObj = joiObj.default(schema.default);
+
+  // Min Date Validation
+  if ( schema.minDate ) {
+    if ( schema.minDate['$ref'] ) {
+      joiObj = joiObj.min(Joi.ref(schema.minDate['$ref']))
+    } else {
+      joiObj = joiObj.min(schema.minDate);
+    }
+  }
+
+  // Max Date Validation
+  if ( schema.maxDate ) {
+    if ( schema.maxDate['$ref'] ) {
+      joiObj = joiObj.max(Joi.ref(schema.maxDate['$ref']))
+    } else {
+      joiObj = joiObj.max(schema.maxDate);
+    }
+  }
 
   return joiObj;
 
