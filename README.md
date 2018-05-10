@@ -95,6 +95,11 @@ default: {default value}
     "email": {
         "$type": "email",
         "optional": true
+    },
+    "date": {
+        "$type": "date",
+        "minDate": "1-1-2017",
+        "maxDate": "10-05-2018"
     }
 }
 

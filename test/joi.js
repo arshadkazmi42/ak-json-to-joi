@@ -15,6 +15,10 @@ const joiSchemaJSON = {
   "number":{
     "$type":"number",
     "optional": true
+  },
+  "date": {
+    "$type": "timestamp",
+    "timestamp": 'javascript'
   }
 };
 
@@ -23,7 +27,8 @@ const json = {
     "org": "arshad",
     "nick": "ars"
   },
-  "number": "999999999"
+  "number": "999999999",
+  "date": "1311110000000"
 };
 
 const joiSchemaArray = {
