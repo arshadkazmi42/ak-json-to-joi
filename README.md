@@ -6,6 +6,7 @@ NPM Module to convert predefined JSON into Joi validation schema dynamically.
 [![npm version](https://badge.fury.io/js/ak-json-to-joi.svg)](https://badge.fury.io/js/ak-json-to-joi)
 [![Dependencies](https://david-dm.org/arshadkazmi42/ak-json-to-joi.svg)](https://david-dm.org/arshadkazmi42/ak-json-to-joi)
 [![npm Downloads](https://img.shields.io/npm/dm/ak-json-to-joi.svg)](https://www.npmjs.com/package/ak-json-to-joi)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad662a16b8784785b4d39b10f075a47c)](https://www.codacy.com/app/arshadkazmi42/ak-json-to-joi?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/ak-json-to-joi&amp;utm_campaign=Badge_Grade)
 
 ## How to install?
 
