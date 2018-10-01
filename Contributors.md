@@ -9,6 +9,8 @@
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Michael Slizenko](https://github.com/hovoodd)
+- [Gourav Gosain](https://github.com/gosaingourav17)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
 - [Aakash Agarwal](https://github.com/aakash2602)
+
 
