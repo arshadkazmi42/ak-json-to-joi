@@ -15,3 +15,4 @@
 - [Kacha Mukabe](https://github.com/kachaMukabe)
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
+- [Tyler Canning](https://github.com/tylercanning)
