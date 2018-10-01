@@ -6,4 +6,6 @@
 - [Rupesh jha](https://github.com/Rupeshiya)
 - [Ezekiel Oladejo](https://github.com/iamwebwiz)
 - [Shubham Kumar](https://github.com/sk9331657)
+- [Ipshita Chatterjee](https://github.com/IpshitaC)
+- [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
