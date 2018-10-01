@@ -12,3 +12,4 @@
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
+- [Rituparno Biswas](https://github.com/roopbiswas)
