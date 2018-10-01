@@ -6,7 +6,7 @@
 - [Rupesh jha](https://github.com/Rupeshiya)
 - [Ezekiel Oladejo](https://github.com/iamwebwiz)
 - [Shubham Kumar](https://github.com/sk9331657)
-- [Akash Agarwal](https://github.com/agarwal-akash) 
+- [Akash Agarwal](https://github.com/agarwal-akash)
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Michael Slizenko](https://github.com/hovoodd)
@@ -16,3 +16,4 @@
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Tyler Canning](https://github.com/tylercanning)
+- [Daphnie Donnell](https://github.com/daphnied)
