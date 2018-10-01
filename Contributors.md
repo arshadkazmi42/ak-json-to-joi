@@ -16,3 +16,4 @@
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Tyler Canning](https://github.com/tylercanning)
+- [Vinícius Giles](https://github.com/gilesv)
