@@ -11,5 +11,6 @@
 - [Michael Slizenko](https://github.com/hovoodd)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
 - [Aakash Agarwal](https://github.com/aakash2602)
+- [Kacha Mukabe](https://github.com/kachaMukabe)
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
