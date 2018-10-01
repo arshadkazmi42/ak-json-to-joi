@@ -8,4 +8,6 @@
 - [Shubham Kumar](https://github.com/sk9331657)
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
+- [Michael Slizenko](https://github.com/hovoodd)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
+
