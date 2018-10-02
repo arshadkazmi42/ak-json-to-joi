@@ -13,7 +13,7 @@
 - [Michael Slizenko](https://github.com/hovoodd)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
 - [Aakash Agarwal](https://github.com/aakash2602)
-- [Manvi] (https://github.com/The-lady-developer)
+- [Manvi](https://github.com/The-lady-developer)
 - [Kacha Mukabe](https://github.com/kachaMukabe)
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
@@ -23,3 +23,4 @@
 - [Blanca Sanchez](https://github.com/helloart3mis)
 - [Eduardo Moura](https://github.com/eduardosm7)
 - [Anisha Swain](https://github.com/Anisha1234)
+- [Timur Samoylov](https://github.com/Timikcool)
