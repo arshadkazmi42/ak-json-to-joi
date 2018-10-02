@@ -22,4 +22,5 @@
 - [Vinícius Giles](https://github.com/gilesv)
 - [Blanca Sanchez](https://github.com/helloart3mis)
 - [Eduardo Moura](https://github.com/eduardosm7)
+- [Anisha Swain](https://github.com/Anisha1234)
 - [Timur Samoylov](https://github.com/Timikcool)
