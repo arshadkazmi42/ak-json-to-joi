@@ -18,6 +18,7 @@
 - [Muhammad Obaid](https://github.com/mohammadobaid1)
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Tyler Canning](https://github.com/tylercanning)
+- [Daphnie Donnell](https://github.com/daphnied)
 - [Vinícius Giles](https://github.com/gilesv)
 - [Blanca Sanchez](https://github.com/helloart3mis)
 - [Eduardo Moura](https://github.com/eduardosm7)
