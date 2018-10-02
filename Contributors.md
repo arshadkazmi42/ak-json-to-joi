@@ -1,16 +1,25 @@
 # Contributors
-
+- [Antonio Neto](https://github.com/aacgn)
 - [Sourav Kumar Nanda](https://github.com/SouravInsights)
+- [Gourav Gosain](https://github.com/gosaingourav17)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
 - [Swapnil Sharma](https://github.com/swapsha96)
 - [Rupesh jha](https://github.com/Rupeshiya)
 - [Ezekiel Oladejo](https://github.com/iamwebwiz)
 - [Shubham Kumar](https://github.com/sk9331657)
+- [Kamal Iqlaas](https://github.com/Iqlaas)
+- [Akash Agarwal](https://github.com/agarwal-akash)
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Michael Slizenko](https://github.com/hovoodd)
-- [Gourav Gosain](https://github.com/gosaingourav17)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
 - [Aakash Agarwal](https://github.com/aakash2602)
-
+- [Manvi] (https://github.com/The-lady-developer)
+- [Kacha Mukabe](https://github.com/kachaMukabe)
+- [Muhammad Obaid](https://github.com/mohammadobaid1)
+- [Rituparno Biswas](https://github.com/roopbiswas)
+- [Tyler Canning](https://github.com/tylercanning)
+- [Vinícius Giles](https://github.com/gilesv)
+- [Blanca Sanchez](https://github.com/helloart3mis)
+- [Eduardo Moura](https://github.com/eduardosm7)
 
