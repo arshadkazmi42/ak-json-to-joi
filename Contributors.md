@@ -22,6 +22,7 @@
 - [Vinícius Giles](https://github.com/gilesv)
 - [Blanca Sanchez](https://github.com/helloart3mis)
 - [Eduardo Moura](https://github.com/eduardosm7)
+- [Jirawat Pattanayutanachot](https://github.com/jirawatp)
 - [Anisha Swain](https://github.com/Anisha1234)
 - [Timur Samoylov](https://github.com/Timikcool)
 - [Conor Mullin](https://github.com/easterncalculus)
