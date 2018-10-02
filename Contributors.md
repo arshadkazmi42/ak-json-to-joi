@@ -17,3 +17,4 @@
 - [Rituparno Biswas](https://github.com/roopbiswas)
 - [Tyler Canning](https://github.com/tylercanning)
 - [Blanca Sanchez](https://github.com/helloart3mis)
+- [Eduardo Moura](https://github.com/eduardosm7)
