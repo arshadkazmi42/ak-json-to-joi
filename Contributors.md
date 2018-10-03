@@ -27,4 +27,5 @@
 - [Timur Samoylov](https://github.com/Timikcool)
 - [Conor Mullin](https://github.com/easterncalculus)
 - [NVS Abhishek](https://github.com/NVS16)
+- [Tanmay Singhal](https://github.com/tanmaysinghal98)
 - [Helus](https://github.com/Helus)
