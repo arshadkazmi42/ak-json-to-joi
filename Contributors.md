@@ -28,3 +28,6 @@
 - [Conor Mullin](https://github.com/easterncalculus)
 - [NVS Abhishek](https://github.com/NVS16)
 - [Renato Siqueira](https://github.com/renatosiqueira)
+- [Tanmay Singhal](https://github.com/tanmaysinghal98)
+- [Helus](https://github.com/Helus)
+
