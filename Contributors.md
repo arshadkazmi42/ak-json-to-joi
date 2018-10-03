@@ -1,4 +1,5 @@
 # Contributors
+- [Fabiane Souza Almeida](https://github.com/fabiane)
 - [Antonio Neto](https://github.com/aacgn)
 - [Sourav Kumar Nanda](https://github.com/SouravInsights)
 - [Arshad Kazmi](https://github.com/arshadkazmi42)
