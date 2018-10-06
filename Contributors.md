@@ -34,4 +34,4 @@
 - [Tanmay Singhal](https://github.com/tanmaysinghal98)
 - [Helus](https://github.com/Helus)
 - [Md Akram Kazmi](https://github.com/akramkazmi71)
-
+- [Dawid Kozak](https://github.com/StudentDawid)
