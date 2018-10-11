@@ -10,6 +10,7 @@
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Akash Agarwal](https://github.com/agarwal-akash)
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
+- [Akshat Jain](https://github.com/iamakshatjain)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Michael Slizenko](https://github.com/hovoodd)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
