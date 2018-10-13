@@ -39,3 +39,4 @@
 - [Dawid Kozak](https://github.com/StudentDawid)
 - [Vidur Katyal](https://github.com/vidurkatyal)
 - [capturethemoon](https://github.com/capturethemoon)
+- [ryuash](https://github.com/ryuash)
