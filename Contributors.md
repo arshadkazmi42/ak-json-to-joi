@@ -39,4 +39,5 @@
 - [Dawid Kozak](https://github.com/StudentDawid)
 - [Vidur Katyal](https://github.com/vidurkatyal)
 - [capturethemoon](https://github.com/capturethemoon)
+- [Steve Mazanec](http://github.com/stevemazanec)
 - [ryuash](https://github.com/ryuash)
