@@ -42,3 +42,4 @@
 - [Steve Mazanec](http://github.com/stevemazanec)
 - [ryuash](https://github.com/ryuash)
 - [NuMellow](https://github.com/numellow)
+- [Pedro Leão](https://github.com/phenriqueleao)
