@@ -43,3 +43,5 @@
 - [ryuash](https://github.com/ryuash)
 - [NuMellow](https://github.com/numellow)
 - [Pedro Leão](https://github.com/phenriqueleao)
+- [Michael Lesniak](https://github.com/mlesniak)
+
