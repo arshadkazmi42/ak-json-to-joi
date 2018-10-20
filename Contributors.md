@@ -46,4 +46,3 @@
 - [Pedro Leão](https://github.com/phenriqueleao)
 - [Michael Lesniak](https://github.com/mlesniak)
 - [Kavan Pancholi](https://github.com/kavanpancholi)
-
