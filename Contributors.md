@@ -34,6 +34,7 @@
 - [Renato Siqueira](https://github.com/renatosiqueira)
 - [Ricardo Ebbers](https://github.com/ricardoebbers)
 - [Tanmay Singhal](https://github.com/tanmaysinghal98)
+- [Amir Hamzah](https://github.com/aktaktaw)
 - [Helus](https://github.com/Helus)
 - [Md Akram Kazmi](https://github.com/akramkazmi71)
 - [Dawid Kozak](https://github.com/StudentDawid)
