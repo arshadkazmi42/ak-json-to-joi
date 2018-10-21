@@ -45,4 +45,5 @@
 - [NuMellow](https://github.com/numellow)
 - [Pedro Leão](https://github.com/phenriqueleao)
 - [Michael Lesniak](https://github.com/mlesniak)
+- [Krutagn Patel](https://github.com/Krutagn)
 - [Kavan Pancholi](https://github.com/kavanpancholi)
