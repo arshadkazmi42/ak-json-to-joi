@@ -14,7 +14,7 @@ NPM Module to convert predefined JSON into Joi validation schema dynamically.
 
 ## How to use
 
-```
+```javascript
 
 const JoiSchemaBuilder = require('ak-json-to-joi');
 let JoiValidationSchema = JoiSchemaBuilder.build(yourJSON);
@@ -28,7 +28,7 @@ let result = Joi.validate(yourPayloadJSON, JoiValidationSchema)
 
 Use any of these as types of the key
 
-```
+```javascript
 
 string
 number
@@ -41,7 +41,7 @@ boolean
 
 ## Validations
 
-```
+```javascript
 
 minLength: {integer value}
 maxLength: {integer value}
@@ -56,7 +56,7 @@ default: {default value}
 
 ## ARRAY JSON
 
-```
+```javascript
 
 {
     "$array": {
@@ -74,7 +74,7 @@ default: {default value}
 
 ## OBJECT JSON
 
-```
+```javascript
 
 {
     "name": {
