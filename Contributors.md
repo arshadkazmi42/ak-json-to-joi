@@ -9,6 +9,7 @@
 - [Shubham Kumar](https://github.com/sk9331657)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Akash Agarwal](https://github.com/agarwal-akash)
+- [Johnathan Belisle](https://github.com/Johnb21)
 - [Ipshita Chatterjee](https://github.com/IpshitaC)
 - [Akshat Jain](https://github.com/iamakshatjain)
 - [Danil Shankovskiy](https://github.com/BeAsYit)
