@@ -26,6 +26,7 @@
 - [Vinícius Giles](https://github.com/gilesv)
 - [Blanca Sanchez](https://github.com/helloart3mis)
 - [Eduardo Moura](https://github.com/eduardosm7)
+- [Moh. Wahyu S. Putra](https://github.com/waysp)
 - [Manaswini Das](https://github.com/manaswinidas)
 - [Jirawat Pattanayutanachot](https://github.com/jirawatp)
 - [Anisha Swain](https://github.com/Anisha1234)
