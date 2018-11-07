@@ -15,6 +15,7 @@
 - [Danil Shankovskiy](https://github.com/BeAsYit)
 - [Michael Slizenko](https://github.com/hovoodd)
 - [Viacheslav_Ignatov](https://github.com/ACIDKing)
+- [Leonardo Falco](https://github.com/kuluk1)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Manvi](https://github.com/The-lady-developer)
 - [Dharmesh-Poddar](https://github.com/Dharmesh-Poddar)
