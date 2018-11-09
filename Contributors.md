@@ -7,6 +7,7 @@
 - [Rupesh jha](https://github.com/Rupeshiya)
 - [Ezekiel Oladejo](https://github.com/iamwebwiz)
 - [Shubham Kumar](https://github.com/sk9331657)
+- [Gibran Khrisna Putra](https://github.com/brantem)
 - [Obamrevwo Ejiro Ewin](https://github.com/Ejiro-Edwin)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Akash Agarwal](https://github.com/agarwal-akash)
