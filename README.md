@@ -86,6 +86,10 @@ Currently the library supports these types
 'type' and 'array' key in validation json should be prefixed with '$' symbol
 on missing $ symbol your validation might not work.
 
+## Contributing
+
+Interested in contributing to this library. Read here on [how to get started](CONTRIBUTING.md)
+
 ## Contributors
 
 [![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/0)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/0)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/1)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/1)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/2)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/2)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/3)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/3)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/4)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/4)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/5)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/5)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/6)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/6)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/images/7)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-json-to-joi/links/7)
