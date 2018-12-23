@@ -13,7 +13,7 @@
     "mocha": "^5.1.1"
   },
   "scripts": {
-    "test": "mocha test/joi.js"
+    "test": "node_modules/mocha/bin/mocha test/valid_url_test.js"
   },
   "repository": {
     "type": "git",
