@@ -59,9 +59,9 @@ if (result.error) {
 
 ```
 
-# Supported Features
+## Supported Features
 
-## Supported Types
+### Supported Types
 
 Currently the library supports these types 
 
@@ -72,7 +72,7 @@ Currently the library supports these types
 - object
 - boolean
 
-## Supported Validations
+### Supported Validations
 
 - **minLength**: Value must be an integer
 - **maxLength**: Value must be an integer
@@ -81,7 +81,7 @@ Currently the library supports these types
 - **regex**: Regex Pattern
 - **default**: Default value, depends on the type defined
 
-# Note:
+## Note:
 
 'type' and 'array' key in validation json should be prefixed with '$' symbol
 on missing $ symbol your validation might not work.
