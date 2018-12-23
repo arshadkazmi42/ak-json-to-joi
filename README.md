@@ -15,105 +15,76 @@ NPM Module to convert predefined JSON into Joi validation schema dynamically.
 ## How to use
 
 ```javascript
-
 const JoiSchemaBuilder = require('ak-json-to-joi');
-let JoiValidationSchema = JoiSchemaBuilder.build(yourJSON);
+
+const joiSchemaJSON = {
+  "name":{
+    "org": {
+      "$type":"string",
+      "required": true
+    },
+    "nick": {
+      "$type":"string",
+      "required": true
+    }
+  },
+  "number":{
+    "$type":"number",
+    "optional": true
+  },
+  "date": {
+    "$type": "timestamp",
+    "timestamp": 'javascript'
+  }
+};
+
+const json = {
+  "name": {
+    "org": "arshad",
+    "nick": "ars"
+  },
+  "number": "999999999",
+  "date": "1311110000000"
+};
+
+let JoiValidationSchema = JoiSchemaBuilder.build(joiSchemaJSON);
+
+// Validating payjoload with JOI Schema
 let result = Joi.validate(yourPayloadJSON, JoiValidationSchema)
+if (result.error) {
+    // Validation failed
+} else {
+    // Validation passed
+}
 
 ```
 
 # Supported Features
 
-## Types
+## Supported Types
 
-Use any of these as types of the key
+Currently the library supports these types 
 
-```javascript
+- string
+- number
+- email
+- array
+- object
+- boolean
 
-string
-number
-email
-array
-object
-boolean
+## Supported Validations
 
-```
-
-## Validations
-
-```javascript
-
-minLength: {integer value}
-maxLength: {integer value}
-optional: {true / false}
-required: {true / false}
-regex: {regex pattern}
-default: {default value}
-
-```
-
-# Sample JSONs
-
-## ARRAY JSON
-
-```javascript
-
-{
-    "$array": {
-        "name":{
-            "$type":"string"
-        },
-        "number":{
-            "$type":"number",
-            "optional": true
-        }
-    }
-}
-
-```
-
-## OBJECT JSON
-
-```javascript
-
-{
-    "name": {
-        "original": {
-            "$type": "string",
-            "required": true,
-            "maxLength": 200
-        },
-        "nick": {
-            "$type": "string",
-            "optional": true,
-            "default": "arshad"
-        }
-    },
-    "phone": {
-        "$type": "number",
-        "required": true
-    },
-    "email": {
-        "$type": "email",
-        "optional": true
-    },
-    "date": {
-        "$type": "date",
-        "minDate": "1-1-2017",
-        "maxDate": "10-05-2018"
-    }
-}
-
-```
+- **minLength**: Value must be an integer
+- **maxLength**: Value must be an integer
+- **optional**: Boolean flag (true / false)
+- **required**: Boolean flag (true / fallse)
+- **regex**: Regex Pattern
+- **default**: Default value, depends on the type defined
 
 # Note:
 
-```
-
 'type' and 'array' key in validation json should be prefixed with '$' symbol
 on missing $ symbol your validation might not work.
-
-```
 
 ## Contributors
 

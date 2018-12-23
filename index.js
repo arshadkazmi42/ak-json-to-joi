@@ -29,7 +29,6 @@ externals.build = function (schema) {
 
 // Parser for array type of payload
 externals.buildJoiArray = (schema) => {
-
   return Joi.array().items(externals.build(schema['$array']));
 };
 
@@ -66,7 +65,7 @@ externals.buildJoi = (schema) => {
       joiObj = joiObj.date();
       break;
     case 'timestamp':
-      if ( schema.timestamp ) {
+      if (schema.timestamp) {
         joiObj = joiObj.date().timestamp(schema.timestamp);
       } else {
         joiObj = joiObj.date().timestamp();
@@ -75,26 +74,38 @@ externals.buildJoi = (schema) => {
   }
 
   // Min Validation
-  if ( schema.minLength ) joiObj = joiObj.min(schema.minLength);
+  if (schema.minLength) {
+    joiObj = joiObj.min(schema.minLength);
+  }
 
   // Max Validation
-  if ( schema.maxLength ) joiObj = joiObj.max(schema.maxLength);
+  if (schema.maxLength) {
+    joiObj = joiObj.max(schema.maxLength);
+  }
 
   // Required filed validation
-  if ( schema.required ) joiObj = joiObj.required();
+  if (schema.required) {
+    joiObj = joiObj.required();
+  }
 
   // Regex validation
-  if ( schema.regex ) joiObj = joiObj.regex(schema.regex);
+  if (schema.regex) {
+    joiObj = joiObj.regex(schema.regex);
+  }
 
   // Option Field
-  if ( schema.optional ) joiObj = joiObj.optional();
+  if (schema.optional) {
+    joiObj = joiObj.optional();
+  }
 
   // Default field
-  if ( schema.default ) joiObj = joiObj.default(schema.default);
+  if (schema.default) {
+    joiObj = joiObj.default(schema.default);
+  }
 
   // Min Date Validation
-  if ( schema.minDate ) {
-    if ( schema.minDate['$ref'] ) {
+  if (schema.minDate) {
+    if (schema.minDate['$ref']) {
       joiObj = joiObj.min(Joi.ref(schema.minDate['$ref']))
     } else {
       joiObj = joiObj.min(schema.minDate);
@@ -102,8 +113,8 @@ externals.buildJoi = (schema) => {
   }
 
   // Max Date Validation
-  if ( schema.maxDate ) {
-    if ( schema.maxDate['$ref'] ) {
+  if (schema.maxDate) {
+    if (schema.maxDate['$ref']) {
       joiObj = joiObj.max(Joi.ref(schema.maxDate['$ref']))
     } else {
       joiObj = joiObj.max(schema.maxDate);
@@ -111,7 +122,6 @@ externals.buildJoi = (schema) => {
   }
 
   return joiObj;
-
 };
 
 
